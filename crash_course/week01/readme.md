@@ -11,12 +11,3 @@ This repository contains the materials and exercises for **Week 1** of the Pytho
 - Explore control structures: if-else statements and loops (for, while).
 
 
-
-## Installation
-To set up the environment and run the Week 1 code, follow these steps:
-
-1. **Install Python**:
-   - Download and install Python (version 3.10 or higher) from [python.org](https://www.python.org/downloads/).
-   - Verify installation by running:
-     ```bash
-     python --version
